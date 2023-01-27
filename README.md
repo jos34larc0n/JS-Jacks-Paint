@@ -1,4 +1,4 @@
-# JS-Jacks-Paint is a fun activity wher we create a web-portal for a paint store the code 
+# JS-Jacks-Paint is a fun web-based activity where we have created a mock painting store. The portal allows users to browse and interact with different paintings by hovering over them to view more information such as color and price. 
 paint.js file has a function that adds event listeners to all images on the page, 
 so when a user hovers over an image, it becomes slightly transparent and displays information about the product, 
 such as its color and price. When the user stops hovering over the image, 
